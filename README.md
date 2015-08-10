@@ -1,5 +1,5 @@
 #Test dockerize
-
+main.go copyright from original developer.
 #Pre-install
 ```go
 go get github.com/dahernan/godockerize
